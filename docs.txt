@@ -1,0 +1,3 @@
+https://github.com/MicrosoftDocs/ml-basics/blob/master/03%20-%20Classification.ipynb
+
+https://www.youtube.com/@Learnbay

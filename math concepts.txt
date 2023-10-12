@@ -1,0 +1,4 @@
+normal distribution
+boxplot
+	positively skewed
+descriptive statistics
